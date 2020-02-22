@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Aparna\Desktop\Aparna_Epam_CleanCode\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2898494678.index
+860886722.index
+3748333374.index
+1511499338.index
+3131115626.index

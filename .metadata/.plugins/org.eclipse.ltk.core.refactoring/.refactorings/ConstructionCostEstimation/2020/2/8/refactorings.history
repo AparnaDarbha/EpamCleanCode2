@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ConstructionCostEstimation/src/main/java/com/pabbi&apos; to &apos;epamtask&apos;" description="Rename resource &apos;pabbi&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/pabbi" name="epamtask" stamp="1582377394573" updateReferences="true"/>
+</session>
