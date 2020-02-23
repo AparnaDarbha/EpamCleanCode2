@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Aparna\Desktop\Aparna_Epam_CleanCode\.metadata\.plugins\org.eclipse.jdt.core
-3131115626.index
